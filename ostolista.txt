@@ -1,4 +1,5 @@
-1 lollero koneelta
+1 lollero koneelta ja lollero githubista
+>>>>>>> ec22c5630e40fd551a11168c58cbc862e53ef482
 2 södlkgjsdfölgkjsdöflg
 3 sepoirdsfgöldfkgjk
 4 pioeurtsdölfkgjdfg
